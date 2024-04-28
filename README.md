@@ -1,8 +1,3 @@
-# Healthcare-Monitoring-System
-UML Project about Healthcare Monitoring System
-
-
-++++++++++++++++++
 # Healthcare Monitoring System
 
 ## Overview
